@@ -1,4 +1,4 @@
-package org.example.DataStructures;
+package org.java.coding;
 import java.util.*;
 
 /**

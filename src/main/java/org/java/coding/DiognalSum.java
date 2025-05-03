@@ -1,4 +1,4 @@
-package org.example.DataStructures;
+package org.java.coding;
 
 /**
  * Initialize n as the length of diag two dimensional array
