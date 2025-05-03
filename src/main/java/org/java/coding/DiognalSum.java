@@ -8,6 +8,7 @@ package org.java.coding;
 
 public class DiognalSum {
     public static int diognalSum(int[][] diag){
+    	System.out.println("Checking merge conflict for collob");
         int n = diag.length;
         int sum = 0;
         for (int i = 0; i < n; i++) {
