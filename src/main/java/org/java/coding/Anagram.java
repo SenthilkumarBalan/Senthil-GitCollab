@@ -36,5 +36,7 @@ public class Anagram {
             String[] str = {"eat","tea","tan","ate","nat","bat"};
             List<String> asList =Arrays.asList(str);
             List<List<String>> result = groupAnagram(asList);
+            System.out.println("KR ECLIPSE GIT Changes- to check collaborator access");
+       
         }
 }
